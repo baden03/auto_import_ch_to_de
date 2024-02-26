@@ -10,6 +10,11 @@ This guide outlines the steps for importing a used vehicle from Switzerland to G
 
 ## Step 2: Customs Declaration and Import into Germany
 - **Notify Customs**: Declare the vehicle at the German border or through a customs broker if declaring post-entry.
+-- **Announce the Import**: Upon driving the vehicle over the border from Switzerland to Germany, it's crucial to announce the import at the customs office and request a T1 document. This document is essential for vehicles entering the EU from a non-EU country, allowing them to be transported under customs control within the EU.
+--- **Purpose of the T1 Document**: The T1 document serves as a transit document for non-EU goods, ensuring that customs duties are secured until the final destination is reached within the EU. It's a key part of the customs process, allowing for the temporary import and transit of the vehicle.
+--- **How to Obtain**: The T1 document can be obtained at the first EU border crossing by declaring the vehicle to customs. Alternatively, a customs broker or logistics company can handle this process on your behalf.
+--- **Next Steps**: After obtaining the T1 document, complete the importation process by presenting the vehicle and the document at the customs office in the destination country for clearance and payment of duties and taxes.
+
 - **Pay Import Duties and VAT**: Pay the applicable import duties and VAT. The rates depend on the vehicle's type and value.
 - **Obtain Customs Clearance Certificate**: After paying duties and taxes, you'll receive a customs clearance certificate (Zollbescheinigung), required for registration in Germany.
 
